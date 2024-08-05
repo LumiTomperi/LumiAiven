@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LumiAiven and I work as TA Partner we are growing OSPO office!!! (helping with recruitment with Tech, Product Design and much more)
+- 👋 Hi, I’m @Lumi and I work as TA Partner 
 - 👀 I’m interested in OpenSource, communities, growing, Hiring and Finding people
-- 🌱 I’m currently learning Open Source (more in general, layers, cooperartion, tech non tech, Community, TODO)
+- 🌱 I’m currently learning Open Source (more in general, lawyers, cooperation, tech non-tech, Community, TODO)
 - 💞️ I’m looking to collaborate on growing OSPO at Aiven
-- 🔅 Hiring Engineers, Product, Design and Leadership!
-- 🤝 Building connections and connectiong others
-- 📫 You can reach me via email: ludmila.tomperi@aiven.io
+- 🔅 Hiring people!
+- 🤝 Building connections and connecting with others
+- 📫 You can reach me via email: ludmi.tomperi@wolt.com
 
 <!---
 LumiAiven/LumiAiven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
